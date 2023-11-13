@@ -1,0 +1,36 @@
+.name-Symble {
+  width: 60px;
+  height: 50px;
+  border-radius: 40px;
+  background-color: #c7d2fe;
+  padding-left: 20px;
+  margin-right: 10px;
+}
+
+.main-container {
+  background-color: #382f5a;
+  min-height: 100vh;
+}
+
+.main-heading {
+  color: #c7d2fe;
+  font-family: Roboto;
+}
+
+.name-container {
+  display: flex;
+  /* background-color: white; */
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.balance-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.balance {
+  color: #585076;
+  font-weight: bold;
+}
